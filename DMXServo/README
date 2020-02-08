@@ -1,0 +1,5 @@
+Uses the Conceptinetic DMX shield to receive DMX data and control 3 servos on pins 9, 10 & 11.
+
+Shield was obtained from here: https://www.dfrobot.com/product-984.html?search=dmx&description=true
+
+Works well, will update in a future release to have OLED screen to set DMX address rather than setting it in code. 

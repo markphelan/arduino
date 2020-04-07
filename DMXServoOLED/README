@@ -1,0 +1,13 @@
+Built with an Arduino Uno, Conceptinetics DMX shield (any RS485-TTL adaptor will do though), 128x32 OLED, and a rotary encoder.
+
+OLED Connections:
+VCC to 3.3v
+Gnd to Gnd
+SDA to A4
+SCL to A5
+
+Encoder connections:
+CLK to D7
+DT to D6
+SW to D8
+

@@ -11,3 +11,4 @@ CLK to D7
 DT to D6
 SW to D8
 
+Servo control lines connected to D9, D10, D11
